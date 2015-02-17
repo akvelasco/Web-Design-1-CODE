@@ -21,6 +21,7 @@ ul	{
 	text-align:center;
 	}
 	img{
-		border:20px solid white;
 		align:center;
+		display: block;
+		margin: auto;
 	}
