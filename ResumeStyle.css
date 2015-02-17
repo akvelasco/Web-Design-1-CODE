@@ -1,6 +1,9 @@
 body{
 	background-color:black;
-	border: 20px:20px:20px:20px;
+	border-top: 20px;
+	border-bottom: 20px;
+	border-left: 20px;
+	border-right: 20px;
 	}
 span-style {
 	font-family:Cursive;
