@@ -25,3 +25,5 @@ ul	{
 		display: block;
 		margin: auto;
 	}
+li
+	{list-style-type: none;}
