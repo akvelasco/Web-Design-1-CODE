@@ -1,3 +1,24 @@
+#contact{
+	font-size: 40px;
+	font-family:Verdana;
+	color: #7d8ce9;
+	text-align: right;
+	}
+.skills{
+	font-size:20px;
+	color: #7d8ce9;
+	text-align:left;
+	}
+.experience{
+	color: #7d8ce9;
+	text-align:left;
+	font-size:20px;
+	}
+.opening{
+	color: #7d8ce9;
+	text-align:left;
+	font-size:25px;
+	}
 body{
 	background-color:black;
 	border-top: 50px;
@@ -5,37 +26,15 @@ body{
 	border-left: 50px;
 	border-right: 50px;
 	}
-
-#contact{
-	font-size: 20px;
-	font-family:Verdana;
-	color: #7d8ce9;
-	text-align: right;
-	}
-.skills{
-	font-size:150px;
-	color: #7d8ce9;
-	text-align:left;
-	}
-.experience{
-	color: #7d8ce9;
-	text-align:left;
-	font-size:150px;
-	}	
-
-p {
-	font-size: 70px;
-	font-family:Verdana;
-	color: #7d8ce9;
-	}
 h1{
-	font-size: 50px;
+	font-size: 40px;
 	font-family:Verdana;
 	color: #7d8ce9;
 	}	
 h2{
 	text-align:left;
 	font-family:Verdana;
+	font-size:;
 	color: #7d8ce9;
 	}
 li
@@ -43,9 +42,4 @@ li
 		font-family:Verdana;
 		font-size:30px;
 		color: #7d8ce9;
-	}
-.opening{
-	color: #7d8ce9;
-	text-align:left;
-	font-size:25px;
 	}
