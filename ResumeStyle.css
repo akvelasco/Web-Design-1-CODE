@@ -2,21 +2,20 @@
 	font-size: 40px;
 	font-family:Verdana;
 	color: #7d8ce9;
-	text-align: right;
 	}
 .skills{
 	font-size:20px;
 	color: #7d8ce9;
-	text-align:left;
+	font-family:Verdana;
 	}
 .experience{
 	color: #7d8ce9;
-	text-align:left;
+	font-family:Verdana;
 	font-size:20px;
 	}
 .opening{
 	color: #7d8ce9;
-	text-align:left;
+	font-family:Verdana;
 	font-size:20px;
 	}
 body{
@@ -32,7 +31,6 @@ h1{
 	color: #7d8ce9;
 	}	
 h2{
-	text-align:left;
 	font-family:Verdana;
 	font-size:20px;
 	color: #7d8ce9;
