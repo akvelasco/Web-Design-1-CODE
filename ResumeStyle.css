@@ -22,5 +22,8 @@ h2
 	text-align:left;
 	font-family:Verdana;
 	color: #7d8ce9;
-
 }
+li
+	{
+		list-style-type: none;
+	}
