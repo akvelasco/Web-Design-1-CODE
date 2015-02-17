@@ -17,7 +17,7 @@
 .opening{
 	color: #7d8ce9;
 	text-align:left;
-	font-size:25px;
+	font-size:20px;
 	}
 body{
 	background-color:black;
@@ -27,19 +27,19 @@ body{
 	border-right: 50px;
 	}
 h1{
-	font-size: 40px;
+	font-size: 20px;
 	font-family:Verdana;
 	color: #7d8ce9;
 	}	
 h2{
 	text-align:left;
 	font-family:Verdana;
-	font-size:;
+	font-size:20px;
 	color: #7d8ce9;
 	}
 li
 	{
 		font-family:Verdana;
-		font-size:30px;
+		font-size:20px;
 		color: #7d8ce9;
 	}
