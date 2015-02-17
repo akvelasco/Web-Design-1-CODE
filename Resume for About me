@@ -5,20 +5,24 @@
 		<title> Resume </title>
 	</head>
 	<body>
-		<p>	
+		<h1 class="Contact Information">	
 			Alexa Velasco
 			Akvelasco94@gmail.com
 			16 Maltbie Ave
 			Stamford, CT
 			203-219-8905
-		</p>
+		</h1>
 		<p>
 			With education and skills in both Digital Media and Design and Business, I hope that your company will give me the opportunity to put what I have learned in the classroom to the field.    
 		<p>
-	<h1>Education</h1>
+	<h1 class="Education">
+		Education
+	</h1>
 		University of Connecticut-Stamford Branch
    			BA in Digital Media and Design, focused on Business and Marketing 
-	<h1>Experience </h1>
+	<h1 class="Experience">
+		Experience 
+	</h1>
 		Researcher
 			C&C Market Research - Stamford , CT -January 2013 to March 2013
 			<ul>
