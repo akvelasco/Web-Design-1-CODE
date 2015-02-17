@@ -13,23 +13,23 @@ body{
 	text-align: right;
 	}
 .skills{
-	font-size:50px;
+	font-size:150px;
 	color: #7d8ce9;
 	text-align:left;
 	}
 .experience{
 	color: #7d8ce9;
 	text-align:left;
-	font-size:25px;
+	font-size:150px;
 	}	
 
 p {
-	font-size: 20px;
+	font-size: 70px;
 	font-family:Verdana;
 	color: #7d8ce9;
 	}
 h1{
-	font-size: 20px;
+	font-size: 50px;
 	font-family:Verdana;
 	color: #7d8ce9;
 	}	
@@ -41,7 +41,7 @@ h2{
 li
 	{
 		font-family:Verdana;
-		font-size:20px;
+		font-size:30px;
 		color: #7d8ce9;
 	}
 .opening{
