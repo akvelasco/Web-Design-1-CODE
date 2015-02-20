@@ -40,4 +40,6 @@ img{
 	width:100px;
 	height:100px;
 	text-align:left;
+	display: block;
+	margin: auto;
 }
