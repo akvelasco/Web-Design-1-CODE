@@ -1,9 +1,4 @@
-#contact{
-	font-size: 40px;
-	font-family:Verdana;
-	color: #7d8ce9;
-	}
- .Skills{
+ .skills{
 	font-size:20px;
 	color: #7d8ce9;
 	font-family:Verdana;
@@ -36,7 +31,7 @@ h2{
 	color: #7d8ce9;
 	}
 li {
-		font-family:Verdana;
-		font-size:20px;
-		color: #7d8ce9;
+	font-family:Verdana;
+	font-size:20px;
+	color: #7d8ce9;
 	}
