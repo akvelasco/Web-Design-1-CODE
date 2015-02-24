@@ -25,5 +25,13 @@ img{
 		display: block;
 		margin: auto;
 	}
-li
-	{list-style-type: none;}
+li{
+	list-style-type: none;
+	}
+.roxi{
+	text-align:center;
+	display: block;
+	margin: auto;
+	width:100px;
+	height:100px;
+}
