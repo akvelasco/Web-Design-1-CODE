@@ -28,10 +28,15 @@ img{
 li{
 	list-style-type: none;
 	}
-.roxi{
-	text-align:center;
+img.roxi{
+	/*text-align:center;
 	display: block;
 	margin: auto;
 	width:100px;
+	height:100px;*/
+	width:100px;
 	height:100px;
+	text-align:right;
+	display: block;
+	margin: auto;
 }
