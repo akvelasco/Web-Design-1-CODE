@@ -21,10 +21,7 @@
 }
 body{
 	background-color:black;
-	border-top: 50px;
-	border-bottom: 50px;
-	border-left: 50px;
-	border-right: 50px;
+	
 	}
 h1{
 	font-size: 20px;
@@ -49,3 +46,9 @@ img{
 	display: block;
 	margin: auto;
 }
+article{
+	padding-top:50px ;
+	padding-right:50px;
+	padding-left:50px; 
+}
+
