@@ -1,6 +1,6 @@
 
 body{
-	background-color:black;
+	background-color:white;
 	}
 span-style {
 	font-family:Cursive;
@@ -20,7 +20,7 @@ ul	{
 	color:#7d8ce9;
 	text-align:center;
 	}
-	img{
+img{
 		text-align:center;
 		display: block;
 		margin: auto;
