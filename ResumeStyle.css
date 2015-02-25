@@ -44,7 +44,7 @@ img{
 	width:100px;
 	height:100px;
 	text-align:right;
-	display: block;
+	display:inline-block;
 }
 article {
 	padding-top:100px;
