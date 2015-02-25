@@ -45,6 +45,7 @@ img{
 	height:100px;
 	text-align:right;
 	display:inline-block;
+	float:right;
 }
 article {
 	padding-top:100px;
