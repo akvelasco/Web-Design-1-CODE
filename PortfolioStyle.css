@@ -28,3 +28,56 @@ h1{
 .clear{
 	clear:both;
 }
+.portfolio-list--fixed {
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 0;
+}
+
+@media (min-width: 768px) {
+	.portfolio-list--fixed {
+		width: 586px;
+		margin: 0 auto;
+		/*width: 76.30208333%;*/
+	}	
+}
+
+@media (min-width: 1024px) {
+	.portfolio-list--fixed {
+		width: 984px;
+		/*width: 96.09375%;
+		max-width: 1200px;*/
+	}	
+}
+
+/*  PORTFOLIO - ITEM - Fixed  */
+
+.portfolio-link--fixed {
+	width: 210px;
+	/*width: 65.625%;*/
+	height: 150px;
+	margin: 20px auto;
+	/*margin: 6.25% auto;*/
+	background: #d8d8d8;
+	display: block;
+}
+
+@media (min-width: 768px) {
+	.portfolio-link--fixed {
+		width: 253px;
+		/*width: 43.14381271%;*/
+		height: 180px;
+		float: left;
+		margin: 20px;
+		/*margin: 3.412969283%;*/
+	}
+}
+
+@media (min-width: 1024px) {
+	.portfolio-link--fixed {
+		width: 288px;
+		/*width: 29.26829268%;*/
+		height: 206px;
+		/*margin: 2.032520325%;*/
+	}	
+}
