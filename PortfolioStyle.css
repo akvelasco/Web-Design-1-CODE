@@ -13,3 +13,9 @@ img.roxi{
 	list-style-type: none;
 	font-weight: bold;
 }
+h1{
+	font-size: 20px;
+	font-family:Verdana;
+	color: #7d8ce9; 
+	text-align:left;
+}	
