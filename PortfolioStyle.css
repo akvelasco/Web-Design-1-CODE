@@ -14,8 +14,9 @@ img.roxi{
 	font-weight: bold;
 }
 h1{
-	font-size: 20px;
+	font-size: 25px;
 	font-family:Verdana;
 	color: #7d8ce9; 
-	text-align:left;
+	text-align:right;
+	margin: auto;
 }	
