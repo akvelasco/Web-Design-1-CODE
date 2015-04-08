@@ -35,3 +35,42 @@ img.roxi{
 	display: block;
 	margin: auto;
 }
+
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?-etnkcx');
+	src:url('fonts/icomoon.eot?#iefix-etnkcx') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-etnkcx') format('woff'),
+		url('fonts/icomoon.ttf?-etnkcx') format('truetype'),
+		url('fonts/icomoon.svg?-etnkcx#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Mail:before {
+	content: "\e945";
+}
+
+.icon-Facebook:before {
+	content: "\ea8c";
+}
+
+.icon-Linkedin:before {
+	content: "\eac9";
+}
+
+
