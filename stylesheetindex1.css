@@ -81,7 +81,7 @@ img.roxi2{
 	margin: auto;
 }
 
-.portfolio-list--percent {
+.profile {
 	list-style-type: none;
 	margin: 0 auto;
 	padding: 0;
@@ -103,7 +103,7 @@ img.roxi2{
 }
 /*  PORTFOLIO - ITEM - % */
 
-.portfolio-link--percent {
+.roxi1 {
 	/*width: 210px;*/
 	width: 65.625%;
 	height: 150px;
