@@ -82,21 +82,21 @@ img.roxi2{
 }
 /*responsive*/
 
-.profile {
+img.profile {
 	list-style-type: none;
 	margin: 0 auto;
 	padding: 0;
 }
 
 @media (min-width: 768px) {
-	.profile {
+	img.profile {
 		/*width: 586px;*/
 		width: 76.30208333%;
 	}	
 }
 
 @media (min-width: 1024px) {
-	.profile {
+	img.profile {
 		/*width: 984px;*/
 		width: 96.09375%;
 		max-width: 1200px;
