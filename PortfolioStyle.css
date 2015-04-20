@@ -10,11 +10,13 @@ img.roxi{
 	display: block;
 	margin: auto;
 }
-img.bbw{
-	width:190px;
-	height:175px;
-	margin: 6.25% auto;
-
+h1{
+	font-size: 25px;
+	font-family:Verdana;
+	color: #7d8ce9; 
+	text-align:right;
+	margin: auto;
+}	
 }
 .contact{
 	font-size: 20px;
@@ -24,22 +26,16 @@ img.bbw{
 	list-style-type: none;
 	font-weight: bold;
 }
-h1{
-	font-size: 25px;
-	font-family:Verdana;
-	color: #7d8ce9; 
-	text-align:right;
-	margin: auto;
-}	
 .clear{
 	clear:both;
 }
 .thumbnailbox{
         display: inline;
         padding-right: 10px;
-    
     }
+.sketch{
+	width:542px;
+	height:540px;
+}
+
     
-    .thumbnailbox img{
-        padding-bottom: 10px;
-    }
