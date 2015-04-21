@@ -86,7 +86,8 @@ ul	{
         padding-right: 32px;
         padding-bottom: 32px;
     	margin: 0 auto
-}
+    	text-align:center;
+    }
 
 li{
 	list-style-type: none;
