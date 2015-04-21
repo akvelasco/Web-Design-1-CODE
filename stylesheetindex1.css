@@ -71,7 +71,7 @@ ul	{
 	}
 .profile{
 	text-align:center;
-	display: inline;
+	display: inline-block;
 	font-size:15px;	
 	font-family:Verdana;
 	color:#7d8ce9;
@@ -82,7 +82,7 @@ ul	{
 	max-height:333px;
 	}
 .profile-div{
-		display: inline;
+		display: inline-block;
         padding-right: 32px;
         padding-bottom: 32px;
     	margin: 0 auto;
