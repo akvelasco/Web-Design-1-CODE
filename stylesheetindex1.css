@@ -26,17 +26,19 @@
 
 .icon-Mail:before {
 	content: "\e945";
+	text-align:left; 
 }
 
 .icon-Facebook:before {
 	content: "\ea8c";
+	text-align:right; 
 }
 
 /*Icons end*/
 
 .social{
         font-size: 24px;
-        text-align: center;
+        /*text-align: center;*/
         padding-top: 0px ;
         padding-bottom: 0px;
 
