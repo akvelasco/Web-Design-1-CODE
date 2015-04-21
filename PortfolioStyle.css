@@ -62,5 +62,36 @@ li{
 	width:542px;
 	height:540px;
 }
+/*desktop*/
+    
+@media only screen and (min-width:870px) {
+    
+    body {
+        /*background: red;*/
+    }
+    
+    header {
+        position: relative;
+        /*background-color:aqua;*/
+        width: 50.5em;
+        margin: 0 auto;
+    }
+    
+    .logo {
+        float:left;
+        font-size: 3em;
+    }
+    
+    .mobilenav{
+        display: none;
+    }
+    
+    .longnav{
+        display: inline;
+        float: right;
+        padding-top: 2em;
+        padding-right: 1em;
+    }
+
 
     
